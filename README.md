@@ -2,7 +2,7 @@
 ## Description
 
 This is an attempt to create an instance of a concept, proposed
-by Alan Turing in 1936. The concept is a machine, which can
+by the great mathematician Alan Turing in 1936. The concept is a machine, which can
 perform a set of actions on a tape, which is divided into cells.
 Each cell can contain a symbol from a finite set of symbols, called an alphabet.
 The machine can read the symbol from the cell, write a new symbol to the cell,
